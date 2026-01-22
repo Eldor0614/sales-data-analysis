@@ -9,6 +9,8 @@ then generating business insights using views, stored procedures, and automated 
 ## Dataset
 The dataset contains sales, orders, customers, products, 
 order_items, stores, stocks, brands, categories and staff information.
+---[Note: The dataset provided is a sample dataset used to demonstrate the data model and SQL logic.
+Full data is not included for confidentiality reasons.]
 
 Key Business Questions:
 Sales volume and margin by product category
