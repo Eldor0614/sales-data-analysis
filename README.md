@@ -10,6 +10,8 @@ to performance reporting and decision support.
 
 ## this
 
+![Database Schema](images/schema.png)
+
 ---
 
 ## Project Objectives
