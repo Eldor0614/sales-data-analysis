@@ -8,6 +8,8 @@ a structured data model, KPI-focused views, and reusable stored procedures.
 The project simulates a real-world analytics workflow, starting from schema design and data ingestion
 to performance reporting and decision support.
 
+## this
+
 ---
 
 ## Project Objectives
