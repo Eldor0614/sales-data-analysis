@@ -8,9 +8,12 @@ a structured data model, KPI-focused views, and reusable stored procedures.
 The project simulates a real-world analytics workflow, starting from schema design and data ingestion
 to performance reporting and decision support.
 
-## this
 
 ![Database Schema](images/schema.png)
+
+**Description:**  
+This ER diagram represents the normalized relational database schema for the Bike Store sales system.  
+The schema is designed to support transactional sales analysis, inventory tracking, and staff performance reporting.
 
 ---
 
